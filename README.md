@@ -1,2 +1,2 @@
 # BankSystem
-### System created on course of java
+### Exercise of Java course
